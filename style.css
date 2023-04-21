@@ -1,0 +1,13 @@
+canvas{
+    border:5px soild white;
+    border-radius:20px;
+    animation-name:anime;
+animation-duration: 4s;
+margin-top: 50px;
+animation-iteration-count: infinite;
+}
+body{
+    background-color:rgb(230, 155, 6);
+    Color:white;
+}
+
